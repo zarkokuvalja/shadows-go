@@ -80,7 +80,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 #typing, #button, #result {
-  display: block; }
+  display: inline; }
 
 /* ==========================================================================
    Helper classes
