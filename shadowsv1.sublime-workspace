@@ -1,0 +1,856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"win",
+				"winHeight"
+			],
+			[
+				"oldM",
+				"oldMouseY"
+			],
+			[
+				"mouse",
+				"mouseX"
+			],
+			[
+				"oldMo",
+				"oldMouseX"
+			],
+			[
+				"translate",
+				"translateY\t(main.scss)"
+			],
+			[
+				"ja",
+				"jaTolikoMrzim"
+			],
+			[
+				"blen",
+				"mix-blend-mode"
+			],
+			[
+				"adju",
+				"adjustedMouseY"
+			],
+			[
+				"mouseHalf",
+				"mouseHalfX"
+			],
+			[
+				"sensi",
+				"sensistivityX"
+			],
+			[
+				"winWi",
+				"winWidthHalf"
+			],
+			[
+				"sns",
+				"sensistivityY"
+			],
+			[
+				"adj",
+				"adjustedMouseY"
+			],
+			[
+				"winHeig",
+				"winHeightHalf"
+			],
+			[
+				"mous",
+				"mouseY"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"sb",
+				"sbWidth"
+			],
+			[
+				"show",
+				"showCoords"
+			],
+			[
+				"audio",
+				"audioStanje0\t(main.scss)"
+			],
+			[
+				"audioState",
+				"audioStateHendler"
+			],
+			[
+				"small",
+				"smallScreen"
+			],
+			[
+				"full",
+				"fullScreen"
+			],
+			[
+				"Tween",
+				"TweenMax"
+			],
+			[
+				"aktvni",
+				"aktivniVideo"
+			],
+			[
+				"FIT",
+				"FITC_Tokyo_2015_Titles.jpg"
+			],
+			[
+				"Wat",
+				"Watchtower_of_Turkey.jpg"
+			],
+			[
+				"For",
+				"For_Approval.jpg"
+			],
+			[
+				"akti",
+				"aktivniVideo"
+			],
+			[
+				"clanb",
+				"ClanPro-Book"
+			],
+			[
+				"cta",
+				"ctaObjasnjenje\t(index.html)"
+			],
+			[
+				"prica_",
+				"prica_ivana_nenad_relja.jpg\t(index.html)"
+			],
+			[
+				"prica",
+				"prica_jan.jpg\t(index.html)"
+			],
+			[
+				"clan",
+				"ClanPro-Bold"
+			],
+			[
+				"header",
+				"headerAutoBio"
+			],
+			[
+				"prva",
+				"prva\t(roko.html)"
+			],
+			[
+				"transl",
+				"translate3d()"
+			],
+			[
+				"prelo",
+				"preloaderFade"
+			],
+			[
+				"pute",
+				"puteljakFade"
+			],
+			[
+				"put",
+				"puteljak"
+			],
+			[
+				"deset",
+				"desetGodinaTekst"
+			],
+			[
+				"dese",
+				"desetGodinaTekst"
+			],
+			[
+				"uvo",
+				"uvodniTekstKontejner\t(index.html)"
+			],
+			[
+				"glavn",
+				"glavniNaslovKontejner\t(index.html)"
+			],
+			[
+				"glav",
+				"glavniFade"
+			],
+			[
+				"Clan",
+				"ClanPro-Book"
+			],
+			[
+				"njuskalo",
+				"njuskaloblack"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"port",
+				"portretKontejner\t(index.html)"
+			],
+			[
+				"gla",
+				"glavniNaslovKontejner\t(index.html)"
+			],
+			[
+				"bodyMovin",
+				"bodymovinDesktop\t(index.html)"
+			],
+			[
+				"bod",
+				"bodymovinDesktop"
+			],
+			[
+				"uvod",
+				"uvodnaAnimacija"
+			],
+			[
+				"pricaGlavni",
+				"pricaGlavniNaslov"
+			],
+			[
+				"pricaGla",
+				"pricaGlavniNaslov\t(main.scss)"
+			],
+			[
+				"price",
+				"pricaSelektor"
+			],
+			[
+				"mob",
+				"mobilniBreakpoint"
+			],
+			[
+				"twee",
+				"tweetLink"
+			],
+			[
+				"share",
+				"shareLink"
+			],
+			[
+				"donj",
+				"donjiKontejner\t(index.html)"
+			],
+			[
+				"gornji",
+				"gornjiKontejner\t(index.html)"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"relative",
+				"relative"
+			],
+			[
+				"skro",
+				"skrolTolerancija"
+			],
+			[
+				"aktiv",
+				"aktivnaPrica"
+			],
+			[
+				"koja",
+				"kojaPricaJeVidljiva"
+			],
+			[
+				"aj",
+				"ajSeMakni"
+			],
+			[
+				"mobilni",
+				"mobilniShareGumb"
+			],
+			[
+				"hamb",
+				"hamburgerGlavniNaslovi"
+			],
+			[
+				"sele",
+				"selektoriMobile"
+			],
+			[
+				"mobil",
+				"mobilniBreakpoint"
+			],
+			[
+				"mobilna",
+				"mobilnaNavigacijaStanje"
+			],
+			[
+				"mobi",
+				"mobilnaNavigacija"
+			],
+			[
+				"hambu",
+				"hamburgerPrice"
+			],
+			[
+				"pricaSelek",
+				"pricaSelektorKontejner\t(index.html)"
+			],
+			[
+				"box-sizi",
+				"box-sizing:border-box\t(main.scss)"
+			],
+			[
+				"pri",
+				"prisilnaAktivnaPrica"
+			],
+			[
+				"trans",
+				"translateY()"
+			],
+			[
+				"ceka",
+				"cekajMaloFunkcija"
+			],
+			[
+				"naslo",
+				"nasloviInicirani"
+			],
+			[
+				"anim",
+				"animacijaNaslova"
+			],
+			[
+				"hash",
+				"hashOviPrica"
+			],
+			[
+				"set",
+				"set"
+			],
+			[
+				"has",
+				"hashOviPrica"
+			],
+			[
+				"Twe",
+				"TweenMax"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"pricaSel",
+				"pricaSelektorDesktop"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"html",
+				"htmlPrica"
+			],
+			[
+				"nju",
+				"njuskaloblack"
+			],
+			[
+				"sljede",
+				"sljedecaPrica"
+			],
+			[
+				"kraj",
+				"krajnjiX"
+			],
+			[
+				"slje",
+				"sljedecaPrica"
+			],
+			[
+				"kr",
+				"krajnjiX"
+			],
+			[
+				"mo",
+				"mobilniBreakpoint"
+			],
+			[
+				"body",
+				"bodyHtml"
+			],
+			[
+				"stara",
+				"staraPrica"
+			],
+			[
+				"star",
+				"stariAktivniVideo"
+			],
+			[
+				"nov",
+				"noviVideo"
+			],
+			[
+				"aktivni",
+				"aktivniVideo"
+			],
+			[
+				"uku",
+				"ukupnoVidea"
+			],
+			[
+				"preth",
+				"prethodnaPrica"
+			],
+			[
+				"ak",
+				"aktivniVideo"
+			],
+			[
+				"pretho",
+				"prethodniVideo"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"res",
+				"responzivizacijaVidea"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"wo",
+				"wobbleStanje"
+			],
+			[
+				"normaliziranDeltaY",
+				"normaliziranDeltaY"
+			],
+			[
+				"muh",
+				"muhaTromost"
+			],
+			[
+				"deltaY",
+				"deltaY"
+			],
+			[
+				"muha",
+				"muhaTeksture"
+			],
+			[
+				"easeIn",
+				"easeIn"
+			],
+			[
+				"to",
+				"to"
+			],
+			[
+				"prsti",
+				"prstiIZastavaKontejner"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"rand",
+				"randomOffsetY"
+			],
+			[
+				"ran",
+				"randomOffsetX"
+			],
+			[
+				"auto",
+				"auto"
+			],
+			[
+				"data",
+				"data-IDno"
+			],
+			[
+				"light",
+				"lightColorTransparent2"
+			],
+			[
+				"dark",
+				"darkColor"
+			],
+			[
+				"lightC",
+				"lightColorTransparent"
+			],
+			[
+				"ligh",
+				"lightColor"
+			],
+			[
+				"li",
+				"lightColor"
+			],
+			[
+				"cou",
+				"countryNames"
+			],
+			[
+				"bold",
+				"bold"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1618,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/750x1254_mobile_interscroller_24sata/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/750x1254_mobile_interscroller_24sata/index_old.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/340x1080_NovaTV/L/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/340x1080_NovaTV/R/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/320x500_mobile_parallax_NovaTV/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/200x800_tportal/L/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/300x250_adria_media/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/200x900_wallpaper_telegram/R/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/320x180_mobile_interscroller_tportal/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/200x900_wallpaper_telegram/L/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/320x480_telegram/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/340x1050_+_tandem_adria_media/L/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/340x1050_+_tandem_adria_media/R/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/750x1254_responsive_24sata/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/340x1050_+_tandem_24sata/L/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/340x1050_+_tandem_24sata/R/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/200x800_tportal/R/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+McCann/2018/Arena/baneri 30:8/+pripreme/300x250_adria_media/300x250_adria_media/index.html",
+		"/Users/Zarko/Library/Caches/Cleanup At Startup/Transmit/ED207D90-35C2-443B-9D3E-6B548182D232/index.html",
+		"/Users/Zarko/Desktop/2/200x800_L.html",
+		"/Users/Zarko/Desktop/3/200x800_R.html",
+		"/Users/Zarko/Desktop/1/300x250.html",
+		"/Applications/AMPPS/ampps/softaculous/enduser/languages/turkish/perl_lang.php",
+		"/Users/Zarko/Desktop/svibanj/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2018/Njuskalo/Povezuju_nas_price/+html/v1/css/main.scss",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2018/Njuskalo/Povezuju_nas_price/+materijali/+tracking skripta/primjer_blog_njuskalo_homepage.txt",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2018/Njuskalo/Povezuju_nas_price/+html/v1/danijela.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+toptal/2018/Cook & James/+web/culture-stories.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+toptal/2018/Cook & James/+web/css.css",
+		"/Users/Zarko/Desktop/GRAD/demo.html",
+		"/Users/Zarko/Desktop/MEDALJA/demo.html",
+		"/Users/Zarko/Library/Caches/Cleanup At Startup/Transmit/DE36A824-A0F5-43CC-B44B-530CF17E2917/index.html",
+		"/Users/Zarko/Library/Caches/Cleanup At Startup/Transmit/02719565-C516-46FD-B991-559981DE66B5/style.css",
+		"/Users/Zarko/Library/Caches/Cleanup At Startup/Transmit/57773354-79F4-401B-B1B4-EA8724F59554/index.html",
+		"/Users/Zarko/Desktop/v1/index.html",
+		"/Users/Zarko/Desktop/v1/css/main.scss",
+		"/Users/Zarko/Desktop/v1/css/main.css",
+		"/Users/Zarko/Desktop/v1/js/main.js",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2017/Njuskalo/Price/+anim/radni/desktop4/demo.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2017/Njuskalo/Price/+html/v1/js/uvodna/desktop.json",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2017/Europski institut/web/live/themes/euinst/js/main.js",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2017/Njuskalo/10 godina/+html/v1/js/main.js",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2017/Njuskalo/Price/+html/v1/js/isInViewport.js",
+		"/Users/Zarko/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Zarko/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Zarko/Downloads/webfontkit-20171112-121056/specimen_files/specimen_stylesheet.css",
+		"/Users/Zarko/Downloads/webfontkit-20171112-121056/stylesheet.css",
+		"/Volumes/Spajza/--Don't panic/+rad/+dev/2017/pixijs/img/muha1.json",
+		"/Users/Zarko/Downloads/eye-master/main.js",
+		"/Volumes/Spajza/--Don't panic/+rad/+crtanje/2017/Ovisnost/+html/v2/js/main.js",
+		"/Volumes/Spajza/--Don't panic/+rad/+crtanje/2017/Ovisnost/+html/v2/css/main.scss",
+		"/Volumes/Spajza/--Don't panic/+rad/+dev/2017/pixijs/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+dev/2017/pixijs/js/main.js",
+		"/Users/Zarko/Library/Caches/Cleanup At Startup/Transmit/857A94B8-0C73-4570-BDF0-C6E6D40D9BB4/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2017/Šareni artikl/+html/v1/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2017/Šareni artikl/+html/v1/css/main.scss",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2017/Šareni artikl/+html/v1/js/main.js",
+		"/Users/Zarko/Library/Caches/Cleanup At Startup/Transmit/73DF8099-2A65-4D4C-A857-D4F4C8BE74DA/index.html",
+		"/Users/Zarko/Desktop/temp.js",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2017/Šareni artikl/+doodle/+animElementi/prsti_i_zastava/prsti_i_zastava.js",
+		"/Volumes/Spajza/--mccann/MasterCard/2017/+razno/Mastercard međuRedizajn/+html/+v1Ponude/js/main.js",
+		"/Volumes/Spajza/--mccann/MasterCard/2017/+razno/Mastercard međuRedizajn/+html/+v1Ponude/css/main.scss",
+		"/Volumes/Spajza/--mccann/MasterCard/2017/+razno/Mastercard međuRedizajn/+html/+v1/css/main.css",
+		"/Volumes/Spajza/--mccann/MasterCard/2017/+razno/Mastercard međuRedizajn/+html/+v1/footerTest.html",
+		"/Volumes/Spajza/--mccann/MasterCard/2017/+razno/Mastercard međuRedizajn/+html/+v1Ponude/ponudeTest.html",
+		"/Volumes/Spajza/--mccann/MasterCard/2017/+razno/Mastercard međuRedizajn/+html/+v1Ponude/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/seminars.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/seminars_eng.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/seminars_de.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/seminar.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/seminar_eng.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/search.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/news.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/news-article.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/news-article_eng.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/news-article_de.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/news_eng.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/news_de.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/news_ar.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/default.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/default_eng.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/default_de.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/big-news-article.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2015/Europski Institut/+C5/+html/themes/euinst/big-news-article_eng.php",
+		"/Volumes/Spajza/--Don't panic/+rad/+fus/2017/Drap/+materijali/Logo_animacija/hexPlave.txt",
+		"/Users/Zarko/Downloads/Re%3a_SimplyTastly_banneri/300x250/index.html",
+		"/Users/Zarko/Downloads/Re%3a_SimplyTastly_banneri/320x250/index.html",
+		"/Users/Zarko/Downloads/Re%3a_SimplyTastly_banneri/468x60/index.html",
+		"/Users/Zarko/Desktop/+html/+v1/js/main.js",
+		"/Users/Zarko/Desktop/+html/+v1/css/main.scss",
+		"/Users/Zarko/Desktop/+html/+v1/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+dev/2016/animejs/1/js/main.js",
+		"/Volumes/Spajza/--Don't panic/+rad/+dev/2016/animejs/1/index.html",
+		"/Volumes/Spajza/--Don't panic/+rad/+dev/2016/animejs/1/css/main.scss",
+		"/Volumes/Spajza/--mccann/Arena/2016/+baneri/Rodendan/300x600/+gemius/index.html",
+		"/Volumes/Spajza/--mccann/RBA/2016/+baneri/Mirovinci/+gemius/1180x250Z/index.html",
+		"/Volumes/Spajza/--mccann/RBA/2016/+baneri/Mirovinci/+gemius/300x250M/index.html",
+		"/Volumes/Spajza/--mccann/RBA/2016/+baneri/Mirovinci/+gemius/1180x250M/index.html",
+		"/Volumes/Spajza/--mccann/RBA/2016/+baneri/Mirovinci/+gemius/970x250Z/index.html",
+		"/Volumes/Spajza/--mccann/RBA/2016/+baneri/Mirovinci/+gemius/970x250M/index.html",
+		"/Volumes/Spajza/--mccann/RBA/2016/+baneri/Mirovinci/+gemius/300x250Z/index.html",
+		"/Volumes/Spajza/--mccann/Arena/2016/+baneri/Back to school/+gemius/970x250/index.html",
+		"/Volumes/Spajza/--mccann/Arena/2016/+baneri/Back to school/+gemius/300x250/index.html",
+		"/Volumes/Spajza/--mccann/Coca Cola/2016/+baneri/SimplyTastly/+gemius/300x600/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Alex_300x250/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/Video/Alex/js/main.js",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/Video/Alex/css/main.css",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/Video/Alex/index.html",
+		"/Volumes/Spajza/--mccann/Atlantic/Cedevita/2016/baneri/Cedevita/Fico u kaficu/pobjednica1/+gemius/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Lunar_970x500/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Lunar_970x250/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Lunar_300x600/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Lunar_300x250/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Decak_970x500/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Decak_970x250/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Decak_300x600/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Decak_300x250/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Andrea_970x500/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Andrea_970x250/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Andrea_300x600/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Andrea_300x250/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Alex_970x500/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Alex_300x600/index.html",
+		"/Volumes/Spajza/--mccann/Shooster/2016/+baneri/Tenke kampanja/+gemius/Alex_970x250/index.html",
+		"/Volumes/Spajza/--mccann/Billa/2016/Tjedni/week33/970x250/index.html",
+		"/Volumes/Spajza/--mccann/HT/2016/Feel Connected Image/+baneri/300x300/+radno/05_300x250_telekom_skater.js",
+		"/Volumes/Spajza/--mccann/HT/2016/Feel Connected Image/+baneri/300x300/+radno/05_300x250_telekom_skater.html",
+		"/Volumes/Common/HT/2016/FEEL CONNECTED/ONLINE MATERIJALI/Europe 2.0 Campaign/01 Banner/Banner_all_formats_HTML5/300x250_Skater/05_300x250_telekom_skater.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shadowsv1.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
